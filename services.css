@@ -444,6 +444,11 @@ h2 {
   color: #01366a;
   font-weight: normal;
 }
+.infos a{
+  text-decoration: none;
+  color: white;
+
+}
 
 
 @media (min-width: 600px) {
@@ -458,6 +463,7 @@ h2 {
     flex: 1 1 calc(50% - 40px);
     max-width: calc(50% - 40px);
   }
+  
 }
 
 @media (min-width: 900px) {
